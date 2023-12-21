@@ -1,0 +1,21 @@
+/**
+ * Métodos HTTP:
+ * 
+ * GET: Buscar/listar informação no back-end
+ * POST: Criar uma informação no back-end
+ * PUT: Alterar uma informção no back-end
+ * DELETE: Deletar uma informção no bacl-end
+ */
+
+/** 
+ * Tipos de parâmetros
+ * 
+ * Query Params: Parâmetros nomeados enviados na rota após "?" (Filtros, paginação)
+ * Route Params: Parâmetros utilizados para identificar recursos
+ * Request Body: Corpo da requisição, utilizado para criar ou alterar recursos
+*/
+
+/**
+ * SQL: MySQL, SQLite, PostgreSQL, oracle, Microsoft SQL Server
+ * NoSQL: MongoDB, CouchDB
+ */
